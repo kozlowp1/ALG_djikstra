@@ -1,0 +1,14 @@
+Graph Test
+
+id:|0|  F:[A] T:[E] LO:[0.0] TC:[3.0]
+id:|1|  F:[E] T:[A] LO:[0.0] TC:[3.0]
+id:|2|  F:[E] T:[F] LO:[1.0] TC:[2.0]
+id:|3|  F:[F] T:[C] LO:[0.0] TC:[4.0]
+id:|4|  F:[D] T:[B] LO:[3.0] TC:[4.0]
+id:|5|  F:[C] T:[D] LO:[2.0] TC:[7.0]
+id:|6|  F:[F] T:[D] LO:[2.0] TC:[4.0]
+id:|7|  F:[D] T:[E] LO:[0.0] TC:[3.0]
+id:|8|  F:[A] T:[B] LO:[3.0] TC:[5.0]
+id:|9|  F:[D] T:[C] LO:[0.0] TC:[5.0]
+id:|10|  F:[B] T:[C] LO:[0.0] TC:[6.0]
+id:|11|  F:[A] T:[D] LO:[2.0] TC:[3.0]
